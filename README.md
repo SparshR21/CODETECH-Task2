@@ -52,8 +52,8 @@ A modern blog web application built with the **MERN** stack (MongoDB, Express.js
      npm start
 
 ## Usage
--Register/Login: Access the application by registering or logging in to create or view blog posts.
--Create/Edit Posts: Use the rich text editor to format and publish blog posts.
--Comment: Add comments to blog posts to engage with the content.
+- **Register/Login: Access the application by registering or logging in to create or view blog posts.
+- **Create/Edit Posts: Use the rich text editor to format and publish blog posts.
+- **Comment: Add comments to blog posts to engage with the content.
 
 
