@@ -56,4 +56,7 @@ A modern blog web application built with the **MERN** stack (MongoDB, Express.js
 - Create/Edit Posts: Use the rich text editor to format and publish blog posts.
 - Comment: Add comments to blog posts to engage with the content.
 
+## Contact
+For any questions or feedback, please reach out to me at rsparsh80@gmail.com.
+
 
