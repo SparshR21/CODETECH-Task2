@@ -1,9 +1,9 @@
-**Name:** Sparsh Rastogi< br / >
-**Company:** CODETECH IT SOLUTIONS< br / >
-**ID:** CT08DS6109< br / >
-**Domain:** Full Stack< br / >
-**Duration:** August to September 2024< br / >
-**Mentor:** Muzammil Ahmed< br / >
+- **Name:** Sparsh Rastogi
+- **Company:** CODETECH IT SOLUTIONS
+- **ID:** CT08DS6109
+- **Domain:** Full Stack
+- **Duration:** August to September 2024
+- **Mentor:** Muzammil Ahmed
 
 # Overview of the project
 
