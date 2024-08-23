@@ -1,4 +1,13 @@
-# Blog Web App
+**Name:** Sparsh Rastogi
+**Company:** CODETECH IT SOLUTIONS
+**ID:** CT08DS6109
+**Domain:** Full Stack
+**Duration:** August to September 2024
+**Mentor:** Muzammil Ahmed
+
+# Overview of the project
+
+**Project:** Blog Application
 
 A modern blog web application built with the **MERN** stack (MongoDB, Express.js, React, Node.js). This app allows users to create, edit, and view blog posts, with features such as user authentication, comments, and responsive design.
 
@@ -58,5 +67,12 @@ A modern blog web application built with the **MERN** stack (MongoDB, Express.js
 
 ## Contact
 For any questions or feedback, please reach out to me at rsparsh80@gmail.com.
+
+# PREVIEW
+
+![Screenshot (139)](https://github.com/user-attachments/assets/9239cc82-b41d-4922-856f-9976f022acd5)
+![Screenshot (137)](https://github.com/user-attachments/assets/9c71c222-baf5-44d3-a86a-39007e8ad61f)
+![Screenshot (136)](https://github.com/user-attachments/assets/0c9335d7-c492-47c1-a348-c0721b60aa47)
+![Screenshot (135)](https://github.com/user-attachments/assets/29c65f57-04bd-419c-b594-d61c58cea973)
 
 
